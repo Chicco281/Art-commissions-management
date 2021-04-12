@@ -13,7 +13,7 @@ DON'T FUCKING TOUCH SETTINGS.TXT OR YOU WILL DESTROY EVERY SINGLE PIECE OF THIS 
 
 If you see some strange stuff such as "Traceback: Most recent call....." then send me a screenshot or the whole text. Otherwise if nothing happens re-read step 2.
 
-3) When you run the program a CMD will pop-up everytime (the black thing). It's normal and closing it will cause a problem. If on that black screen you see something like ["stuff", "more stuff"] or "False" then I'm fucking stupid and I forgot to remove a debug statement. Please report it to me.
+3) When you run the program a CMD will pop-up everytime (the black window). It's normal and closing it will close the other program too. If on that black screen you see something like ["stuff", "more stuff"] or "False" then I'm fucking stupid and I forgot to remove a debug statement. Please report it to me.
 
 
 --=What does every file do?=--
