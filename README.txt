@@ -34,5 +34,4 @@ Version [2.1.0]
 --=Some technical stuff=--
 Imports used: PySimpleGuI - plyer - os - datetime - pickle
 Modules used: 4
-Total lines: 423 (for now)
-
+Is this a clean code? PFFT
