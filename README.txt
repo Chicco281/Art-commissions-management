@@ -21,6 +21,14 @@ If you see some strange stuff such as "Traceback: Most recent call....." then se
 [notifications.exe] = The program used to send  windows notifications.
 [commissions (folder)] = Here all of your commissions are stored. They are stored as a *.pkl file. You can't open them unless you know how to decrypt it :)
 [settings.txt] = As I already said, this file is important. If you don't touch it then everything is going to be fine. But modifying anything inside can lead to some annoying errors. If something goes wrong delete the content, but before doing it, send me the content of that file and the informations I need (Such as when does it happen, after what etc..).
+[money.txt] = Keeps track of all the payments
+
+
+--=--= CHANGELOG =--=--
+Version [2.1.0]
+-Added changelog to the README.txt
+-Added money feature. Now you can keep track of the total income, the highest and the lowest payment received and total income by completing all commissions.
+-Added "money.txt" file.
 
 
 --=Some technical stuff=--
